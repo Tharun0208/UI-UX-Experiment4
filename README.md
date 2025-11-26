@@ -32,9 +32,17 @@ Welcome → Login → Home → Product Listing → Checkout
 9.Stop
  
 ## Output:
+
+
 <img width="1764" height="965" alt="image" src="https://github.com/user-attachments/assets/fab24a51-9332-4123-933f-6841f724cadf" />
 
+
+
+
 <img width="1257" height="928" alt="image" src="https://github.com/user-attachments/assets/d86e7433-07ad-49c9-b97b-8c686496b2c2" />
+
+
+
 
 <img width="949" height="494" alt="image" src="https://github.com/user-attachments/assets/ab06c3ba-dcb2-4428-ae17-baa0d60e5915" />
 
