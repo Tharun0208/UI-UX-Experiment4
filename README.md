@@ -32,7 +32,12 @@ Welcome → Login → Home → Product Listing → Checkout
 9.Stop
  
 ## Output:
-<img width="1536" height="1024" alt="ChatGPT Image Nov 6, 2025, 01_39_40 PM" src="https://github.com/user-attachments/assets/0aef2aa6-0762-42b1-af0d-27b7c811f1d5" />
+<img width="1764" height="965" alt="image" src="https://github.com/user-attachments/assets/fab24a51-9332-4123-933f-6841f724cadf" />
+
+<img width="1257" height="928" alt="image" src="https://github.com/user-attachments/assets/d86e7433-07ad-49c9-b97b-8c686496b2c2" />
+
+<img width="949" height="494" alt="image" src="https://github.com/user-attachments/assets/ab06c3ba-dcb2-4428-ae17-baa0d60e5915" />
+
 
 ## Result:
 Thus the wireframe diagram for a generic application or website using Balsamiq was completed and verified.
